@@ -1,0 +1,10 @@
+adj1 = input("Please enter two adjective(description): ")
+adj2 = input("Second adjective: ")
+adj3 = input("Third adjective: ")
+nuon = input("Please enter an noun(thing): ")
+verb = input("Please enter an verb(action): ")
+
+print(f"Today I went to a {adj1} zoo")
+print(f"In the zoo, I saw an {nuon}")
+print(f"The {nuon} was {adj2} and {verb}")
+print(f"I was {adj3}!")
